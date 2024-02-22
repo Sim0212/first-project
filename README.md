@@ -24,3 +24,8 @@ cd my_project
 git init
 ```
 Это лишь некоторые функции markdown.
+
+git clone
+git add ""
+git commit -m ""
+git push
